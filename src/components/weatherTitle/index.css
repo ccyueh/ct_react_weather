@@ -5,3 +5,7 @@
   height: 75vh;
   background-image: url('../../media/images/bg.jpg');
 }
+
+h1 {
+  font-size: 230%;
+}
